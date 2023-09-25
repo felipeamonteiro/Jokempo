@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useState } from 'react';
 import './App.css';
-import Jogador from './components/Jogador';
+import Jogador from './components/jogador.jsx';
 import Computador from './components/Computador';
 import Placar from './components/Placar';
 import Resultado from './components/Resultado';
